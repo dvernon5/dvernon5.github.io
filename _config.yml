@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: Donovan Vernon Website
+title: My Website
 
 # Your name to show in the footer
-author: Donovan Vernon
+author: Some Person
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -24,7 +24,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's GitHub: "github.com/dvernon5"
+  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
@@ -32,10 +32,10 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
- avatar: "/assets/img/avatar-icon.png"
+avatar: "/assets/img/avatar-icon.png"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
-# round-avatar: true
+round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
@@ -49,16 +49,16 @@ navbar-links:
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  # email: "someone@example.com"
+  email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  # facebook: deanattali
-  # github: daattali
-  # twitter: daattali
-  # patreon: DeanAttali
-  # youtube: c/daattali
+  facebook: deanattali
+  github: daattali
+  twitter: daattali
+  patreon: DeanAttali
+  youtube: c/daattali
 #  medium: yourname
 #  reddit: yourname
-   linkedin: donovan-vernon-76258916b
+#  linkedin: daattali
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -73,7 +73,7 @@ social-network-links:
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
 #  google-scholar: your google scholar
-#  discord: invite/invite_code or users/userid 
+#  discord: "invite_code" or "users/userid" or "invite/invite_code" 
 #  kaggle: yourname
 #  hackerrank: yourname
 
@@ -210,13 +210,13 @@ footer-hover-col: "#0085A1"
 # https://github.com/eduardoboucas/staticman/ and https://staticman.net/ for further 
 # instructions. For any support with staticman please direct questions to staticman and 
 # not to BeautifulJekyll.
-# staticman:
-#   repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
-#   branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
-#   endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
-#   reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
-#     siteKey  : # You need to apply for a site key on Google
-#     secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
+#staticman:
+#  repository : # GitHub username/repository eg. "daattali/beautiful-jekyll"
+#  branch     : master # If you're not using `master` branch, then you also need to update the `branch` parameter in `staticman.yml`
+#  endpoint   : # URL of your deployment, with a trailing slash eg. "https://<your-api>/v3/entry/github/"
+#  reCaptcha:   # (optional, set these parameters in `staticman.yml` as well) 
+#    siteKey  : # You need to apply for a site key on Google
+#    secret   : # Encrypt your password by going to https://<your-own-api>/v3/encrypt/<your-site-secret>
 
 # To use giscus comments:
 # (0) Uncomment the following giscus section, (1) Enable Discussions in your GitHub repository, 
