@@ -1,6 +1,6 @@
 ---
-layout: post
-title: The Logic Behind Choosing C++ as My First Programming Language
+layout: post  
+title: The Logic Behind Choosing C++ as My First Programming Language  
 subtitle: Navigating the Programming Landscape with C++: A Journey Control, Curiosity, and Code
 ---
 
