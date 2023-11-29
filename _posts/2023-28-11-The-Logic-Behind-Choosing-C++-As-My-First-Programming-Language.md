@@ -2,7 +2,7 @@
 layout: post
 title: The Logic Behind Choosing C++ as My First Programming Language
 subtitle: Navigating the Programming Landscape with C++: A Journey Control, Curiosity, and Code
----  
+---
 
 So, let me spill the beans on why I went all in with C++ for my initial programming foray. The big draw for me was how C++ puts the programmer in the driver's seat--total control and flexibility. It's like the language trusts you to call the shots, and that appealed to me right from the start.   
 
