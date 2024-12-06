@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "The True Scope of Software Engineering
+title: "The True Scope of Software Engineering"
 subtitle: "The Overlooked Side of Software Engineering: Operations and Scalability"
 ---
 
