@@ -1,16 +1,11 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: A Software Engineer in the Making
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Hello, my name is Donovan Vernon, and I am a person who's passionate about adventure and a challenge. That was my reasoning and drive for becoming a software engineer. I love the thrill of learning continuously, new technology, and disciplines. I love solving complex problems that require me to think inside/outside of the box and get me outside of my comfort zone. Most importantly, being able to collaborate with like-minded individuals, and being able to create renowned technology and an everlasting friendship with my peers.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Beyond engineering, I'm an avid sports enthusiast, finding joy in basketball, tennis, and hiking. These activities mirror my teamwork mentality and my willingness to tackle challenges head-on. Exploring new locations, trying different cuisines, and meeting diverse individuals are passions that align with my curiosity-driven nature.  
 
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I am looking forward to the opportunity of meeting and working with y'all.
