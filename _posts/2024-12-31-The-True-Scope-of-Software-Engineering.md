@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The True Scope of Software Engineering
-subtitle: The Overlooked Side of Software Engineering: Operations and Scalability
+subtitle: The Overlooked Side of Software Engineering, Operations and Scalability
 --- 
 
 Software engineering is so much more than just coding, and I am finally beginning to understand that. While programming languages are an essential part of the field, software engineering encompasses a much broader spectrum of disciplines. It involves understanding computer systems, mathematics, databases, networking, security, system design, and testing, among other things.
