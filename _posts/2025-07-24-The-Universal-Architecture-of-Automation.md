@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Universal Architecture of Automation: Why Every Platform Speaks the Same Language
+title: The Universal Architecture of Automation - Why Every Platform Speaks the Same Language
 subtitle: How Event-Driven Architecture Unifies GitHub Actions, AWS Lambda, Jenkins, and Beyond
 ---
 *After years of working across different automation frameworks—from GitHub Actions to AWS Lambda, from Jenkins to Kubernetes controllers—a clear pattern emerges. Despite their different interfaces and terminology, they all implement the same fundamental architecture.*
