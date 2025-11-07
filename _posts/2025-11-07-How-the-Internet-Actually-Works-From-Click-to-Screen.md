@@ -11,7 +11,7 @@ subtitle: A step-by-step breakdown of the hidden machinery behind every webpage
 I used to think daily use meant I understood the internet. Wrong. The moment I dug in, I saw how many pieces must align for data to reach my screen. Let’s trace the path, step by step, without fluff.
 
 ### 1. Your Device Starts the Request
-You type "google.com" in the browser. The device does not know the location. It relies on the TCP/IP stack, the protocol suite that governs all internet communication.
+You type "google.com" in the browser. The device does not know the location. It relies on the TCP/IP stack, the protocol suite that governs all Internet communication.
 
 ### 2. Modem and Router at Home
 The modem converts the ISP signal (cable, fiber, or DSL) into Ethernet. The router assigns local IP addresses (like 192.168.1.10) and builds a packet. Each packet contains source IP, destination IP (still unknown), and payload.
@@ -40,7 +40,7 @@ Traffic travels over fiber optic cables, undersea lines, and Internet Exchange P
 ### 10. Key Distinctions
 - **Internet**: global network of networks.
 - **Web**: HTTP-based service on the internet.
-- **Website**: group of related webpages.
+- **Website**: a group of related webpages.
 - **Webpage**: single document.
 
 I plan to explore QUIC, IPv6, and BGP next. The deeper I go, the more the system’s reliability stands out.
