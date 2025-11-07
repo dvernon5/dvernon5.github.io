@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How the Internet Actually Works: From Click to Screen
+title: How the Internet Actually Works
 subtitle: A step-by-step breakdown of the hidden machinery behind every webpage
 ---
 
