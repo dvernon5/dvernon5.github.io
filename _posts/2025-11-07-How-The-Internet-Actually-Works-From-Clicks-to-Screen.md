@@ -1,7 +1,7 @@
 ---
 layout: post
-title: How the Internet Actually Works
-subtitle: A step-by-step breakdown of the hidden machinery behind every webpage
+title: How the Internet Actually Works (From Click to Screen)
+description: A step-by-step breakdown of the hidden machinery behind every webpage
 ---
 
 # How the Internet Actually Works: From Click to Screen
@@ -44,5 +44,3 @@ Traffic travels over fiber optic cables, undersea lines, and Internet Exchange P
 - **Webpage**: single document.
 
 I plan to explore QUIC, IPv6, and BGP next. The deeper I go, the more the system’s reliability stands out.
-
-Which step surprises you most? Comment below.
