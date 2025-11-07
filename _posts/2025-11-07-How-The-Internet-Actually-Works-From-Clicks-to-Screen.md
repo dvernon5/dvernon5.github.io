@@ -38,9 +38,9 @@ TCP reassembles packets in order. The browser parses HTML, fetches assets via ne
 Traffic travels over fiber optic cables, undersea lines, and Internet Exchange Points where networks interconnect. Wi-Fi uses the same TCP/IP rules over radio.
 
 ### 10. Key Distinctions
-- **Internet**: global network of networks.
-- **Web**: HTTP-based service on the internet.
-- **Website**: group of related webpages.
-- **Webpage**: single document.
+* **Internet**: global network of networks.
+* **Web**: HTTP-based service on the internet.
+* **Website**: group of related webpages.
+* **Webpage**: single document.
 
 I plan to explore QUIC, IPv6, and BGP next. The deeper I go, the more the system’s reliability stands out.
