@@ -1,6 +1,9 @@
-# Building My First Full Stack Application: A Habit Tracker
-### What I Learned Building My First Full Stack App From Scratch
- 
+---
+layout: post
+title: Building My First Full Stack Application, A Habit Tracker
+subtitle: What I Learned Building My First Full Stack App From Scratch
+---
+
 I built my first full stack application. It was a CRUD-based habit tracker, and while that might sound simple on the surface, it taught me more about how software systems actually work than anything else I've done so far. This post is a breakdown of how I built it, what I struggled with, and what I learned along the way.
  
 ---
